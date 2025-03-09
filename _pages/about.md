@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: "PhD @ University of Liverpool
-  \n
+
   MSc @ University of Edinburgh"
 
 profile:
