@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD @ University of Liverpool
+          MSc @ University of Edinburgh
 
 profile:
   align: right
@@ -34,7 +35,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I am currently a fourth-year Ph.D. student at the University of Liverpool, under the supervision of Prof. [Jimin Xiao](https://jiminxiao.github.io). My research focuses on label-efficient learning in the field of computer vision, including
+I received my Ph.D. from University of Liverpool, under the supervision of Prof. [Jimin Xiao](https://jiminxiao.github.io). My research focuses on label-efficient learning in the field of computer vision, including
 
 <ul>
     <li>Semantic Segmentation</li>
