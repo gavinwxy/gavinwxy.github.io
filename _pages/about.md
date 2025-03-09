@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  PhD @ University of Liverpool
-  MSc @ University of Edinburgh
+  | PhD @ University of Liverpool
+  | MSc @ University of Edinburgh
 
 profile:
   align: right
