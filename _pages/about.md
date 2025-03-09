@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: |
+subtitle: >
   PhD @ University of Liverpool
   MSc @ University of Edinburgh
 
