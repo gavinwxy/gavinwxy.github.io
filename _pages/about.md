@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <p>PhD @ University of Liverpool</p> 
-  <p>MSc @ University of Edinburgh</p>
+subtitle: "PhD @ University of Liverpool
+  \n
+  MSc @ University of Edinburgh"
 
 profile:
   align: right
